@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1513270990 source:e:\asop\activity05\stack\main.cpp
+	<iostream>
+	"MyStyle.h"
+	"MYSTACK.H"
+	"StackMenu.h"
+
+1513272628 e:\asop\activity05\stack\include\mystack.h
+	<iostream>
+	<cstdlib>
+
+1513264000 source:e:\asop\activity05\stack\src\mystack.cpp
+	<iostream>
+	<cstdlib>
+	"MyStack.h"
+	"MyStyle.h"
+
+1513237222 source:e:\asop\activity05\stack\src\mystyle.cpp
+	<iostream>
+	<string>
+	<windows.h>
+	"MyStyle.h"
+
+1513237154 e:\asop\activity05\stack\include\mystyle.h
+	<string>
+
+1513272564 source:e:\asop\activity05\stack\src\stackmenu.cpp
+	<iostream>
+	<limits>
+	<string>
+	<windows.h>
+	"MYSTACK.H"
+	"MyStyle.h"
+	"StackMenu.h"
+
+1513270688 e:\asop\activity05\stack\include\stackmenu.h
+	<string>
+	"MYSTACK.H"
+
